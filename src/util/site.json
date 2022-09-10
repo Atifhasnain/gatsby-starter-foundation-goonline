@@ -3,10 +3,10 @@
     "title": "GoOnline",
     "titleTemplate": "%s",
     "description": "All Rights Reserved. Copyright © 2022. Made with ❤ by GoOnline",
-    "siteUrl": "https://foundation.stackrole.com",
+    "siteUrl": "https://blog.goonline.dev",
     "image": "/assets/goonline.png",
     "iconimage": "/assets/goonline.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
