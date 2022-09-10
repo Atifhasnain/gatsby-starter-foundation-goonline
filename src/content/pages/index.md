@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: GoOnline Blogs
-tagline: Graphic Designer
+title: GoOnline
+tagline: Tech Blogs
 featuredImage: /assets/goonline.png
 cta:
   ctaText: Know more
