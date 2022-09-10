@@ -4,6 +4,7 @@ title: Node Version Manager (nvm)
 slug: /node-version-manager-nvm
 date: 2022-09-10 14:34
 description: Installation & Up-gradation, Troubleshooting, Installation Verification, Usage
+featuredImage: /assets/nvm.webp
 ---
 ### Install & Update Script
 
