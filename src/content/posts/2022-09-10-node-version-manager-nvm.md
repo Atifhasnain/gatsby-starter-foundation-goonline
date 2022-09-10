@@ -5,11 +5,7 @@ slug: /node-version-manager-nvm
 date: 2022-09-10 14:34
 description: Installation & Up-gradation, Troubleshooting, Installation Verification, Usage
 ---
-
-
-```nginx
-
-```
+### Install & Update Script
 
 To **install** or **update** nvm, you can use the following cURL or Wget command:
 
