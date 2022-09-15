@@ -47,8 +47,7 @@ sudo apt-get -y install build-essential autoconf m4 libncurses5-dev libwxgtk3.0-
 asdf install erlang 24.1.5
 ```
 
-### \
-6. Install Elixir Plugin:
+### 6. Install Elixir Plugin:
 
 ```
 asdf plugin-add elixir https://github.com/asdf-vm/asdf-elixir.git
@@ -56,8 +55,7 @@ asdf plugin-add elixir https://github.com/asdf-vm/asdf-elixir.git
 asdf install elixir 1.13.2
 ```
 
-### \
-7. App Deployment Steps:
+### 7. App Deployment Steps:
 
 ```
 mix deps.get
