@@ -12,7 +12,7 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-      All Rights Reserved. Copyright © 2022. Made with ❤ by{" "}
+      All Rights Reserved. Copyright © 2022. Made with{" "}
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}
