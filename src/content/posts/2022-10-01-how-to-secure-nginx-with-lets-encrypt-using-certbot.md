@@ -19,14 +19,14 @@ Certbot should to be able to find the correct `server` block in your Nginx con
 To check, open the configuration file for your domain using `vi` or your favorite text editor:
 
 ```
-sudo nano /etc/nginx/sites-available/<yoursite>.com
+sudo nano /etc/nginx/sites-available/yourdomain.com
 ```
 
 It should look like this:
 
 ```
 ...
-server_name yourdomain.com www.domain.com;
+server_name yourdomain.com www.yourdomain.com;
 ...
 ```
 
